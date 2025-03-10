@@ -1,10 +1,9 @@
 ---
-id: 5
+
 title: Welcome.
 date: '2021-07-28T18:40:23+00:00'
 author: 'Mike Sturm'
 layout: page
-guid: 'http://www.mikesturm.net/?page_id=5'
 ---
 
 ### My name is Mike Sturm. I write about productivity and personal growth. Below are the things I’ve done and things I’m currently doing.
