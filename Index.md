@@ -1,8 +1,6 @@
 ---
 
 title: Welcome.
-date: '2021-07-28T18:40:23+00:00'
-author: 'Mike Sturm'
 layout: page
 ---
 
