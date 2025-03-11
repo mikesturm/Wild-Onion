@@ -8,8 +8,7 @@ url: https://mikesturm.github.io/Wild-Onion
 permalink: pretty
 
 collections:
-  writings:
-    output: true
+  - writings
 
 
 # Set a path/url to a logo that will be displayed instead of the title
