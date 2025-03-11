@@ -1,11 +1,8 @@
 title: Mike Sturm
 description: Productivity, Personal Growth, etc.
-theme: just-the-docs
 
 url: https://mikesturm.github.io/Wild-Onion
 
-aux_links:
- # Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 
 permalink: pretty
@@ -18,7 +15,7 @@ defaults:
       layout: "default"
 
 exclude:
-  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
+ 
   - .github/
   - _layouts/
   - gemfiles/
