@@ -7,23 +7,9 @@ url: https://mikesturm.github.io/Wild-Onion
 
 permalink: pretty
 
-defaults:
-  - scope:
-      path:  # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
-
-exclude:
- 
-  - .github/
-  - _layouts/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
- 
+collections:
+  writings:
+    output: true
 
 
 # Set a path/url to a logo that will be displayed instead of the title
